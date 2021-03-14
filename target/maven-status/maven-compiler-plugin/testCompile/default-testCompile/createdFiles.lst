@@ -1,0 +1,7 @@
+net\phptravels\automation_php_travels\configuracion\BasePruebas.class
+net\phptravels\automation_php_travels\configuracion\Utilidades.class
+net\phptravels\automation_php_travels\Blog.class
+net\phptravels\automation_php_travels\configuracion\Propiedades.class
+net\phptravels\automation_php_travels\Login.class
+runner\RunTest.class
+net\phptravels\automation_php_travels\AppTest.class

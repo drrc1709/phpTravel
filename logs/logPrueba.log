@@ -1,0 +1,4 @@
+mar 13, 2021 7:36:09 PM net.phptravels.automation_php_travels.configuracion.Configuracion <init>
+INFORMACIÓN: URL base pruebas: https://www.phptravels.net/admin
+mar 13, 2021 7:36:12 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMACIÓN: Detected dialect: W3C
